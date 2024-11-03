@@ -14,6 +14,6 @@ mvn compile
 
 Запустите программу:
 ```
-mvn exec:java -Dexec.mainClass="com.example.Main"
+mvn exec:java -D"exec.mainClass"="ru.example.Main"
 ```
 
